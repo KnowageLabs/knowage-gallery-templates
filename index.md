@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Template of the month
 
-[Link](https://github.com/KnowageLabs/knowage-gallery-templates/blob/gh-pages/templates/card/indicator_with_icon/indicator_with_icon.json)
+[Link](https://github.com/KnowageLabs/knowage-gallery-templates/tree/main/templates/card/indicator_with_icon)
 
 ### Templates category
 
