@@ -1,8 +1,12 @@
 ## Knowage Gallery Templates
 
-You can use the [editor on GitHub](https://github.com/KnowageLabs/Knowage-gallery-templates/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Willing to take your data visualization to a higher level?
+This page collects KNOWAGE Gallery templates that helps you crafting in few minutes stunning visualizations for your data.
+Gallery templates can be imported  into the Gallery management section of KNOWAGE to provide end user with pre-built charts, labels and any kind of object with the only need to connect his/her own datasources.
+The following templates are provided by the open source community around KNOWAGE and validated by KNOWAGE Labs. Templates can be used with any KNOWAGE Community Edition installation after version 7.4, paying attention to the constraints of the libraries.
+Willing to contribute sharing your top-level data visualization artworks?
+Read the following guideline and create your pull request. KNOWAGE Labs will review and add your template, giving you all credits and adding you to KNOWAGE contributors list!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Template of the month
 
