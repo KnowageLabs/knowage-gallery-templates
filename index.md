@@ -8,7 +8,10 @@ Gallery templates can be imported  into the Gallery management section of KNOWAG
 
 The following templates are provided by the open source community around KNOWAGE and validated by KNOWAGE Labs. Templates can be used with any KNOWAGE Community Edition installation after version 7.4, in compliance with the constraints required by the chosen libraries.
 
-SCREENSHOT 8RC GALLERY, VIDEO GALLERY, SCREENSHOT KNOWAGE 2021 GALLERY
+![gallery-setting](./assets/img/knowage-gallery-set.png)
+
+![gallery-list](./assets/img/knowage-gallery-list.png)
+, VIDEO GALLERY, SCREENSHOT KNOWAGE 2021 GALLERY
 
 
 *Willing to contribute sharing your top-level data visualization artworks?*
