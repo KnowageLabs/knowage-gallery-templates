@@ -5,3 +5,15 @@ plugins:
 colors:
     gradient_left: "#073058"
     gradient_right: "#159957"
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: false
+      read_time: false
+      comments: false
+      share: true
+      related: false
