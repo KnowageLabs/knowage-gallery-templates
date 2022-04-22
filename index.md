@@ -6,6 +6,8 @@ This page collects KNOWAGE Gallery templates that helps you crafting **stunning 
 |    [![card](./assets/img/card.png)](https://github.com/KnowageLabs/knowage-gallery-templates/tree/main/templates/card)  |    [![header](./assets/img/header.png)](https://github.com/KnowageLabs/knowage-gallery-templates/tree/main/templates/header)   | [![charts](./assets/img/chart.png)](https://github.com/KnowageLabs/knowage-gallery-templates/tree/main/templates/chart)   |
 
 
+## How to use
+
 Gallery templates can be imported with the **Gallery management functionality** of KNOWAGE to provide end users with pre-built charts, labels and any kind of object with the only need to connect their own datasources.
 
 Once imported, in fact, templates are easy to use: each HTML, R, PYTHON and CUSTOM widget has its own Gallery tab in the widget edit mode from which choosing the most suitable template for the ongoing analysis.
@@ -13,12 +15,11 @@ Once imported, in fact, templates are easy to use: each HTML, R, PYTHON and CUST
 ![Cards](./assets/img/knowage-gallery-list.png)
 
 
-### Contributions
+## How to contribute
 
 *Willing to contribute sharing your top-level data visualization artworks?*
 
 Read the following guideline and create your pull request: KNOWAGE Labs will review and add your template, giving you all credits and adding you to KNOWAGE .[contributors list!](https://www.knowage-suite.com/site/licensing/community-edition/)
-
 
 
 *...but that's not all!*
@@ -28,7 +29,6 @@ Read the following guideline and create your pull request: KNOWAGE Labs will rev
 * Take your place in the community around KNOWAGE on [Zanata portal](https://www.knowage-suite.com/zanata/) (KNOWAGE translation), [Github](https://github.com/KnowageLabs) (KNOWAGE source code) and [Q&A Forum](https://www.knowage-suite.com/qa/) (free support for KNOWAGE users)
 
 * Improve your knowledge on KNOWAGE thanks to our [free webinars](https://www.knowage-suite.com/site/resources/knowage-webinars/) or the [online documentation](https://knowage-suite.readthedocs.io/)
-
 
 
 ### How to add templates
@@ -65,4 +65,4 @@ The templates are provided by the open source community around KNOWAGE and valid
 
 Templates can be used with any **KNOWAGE Community Edition** installation since version 7.4, in compliance with the constraints required by the chosen libraries.
 
-In case of problems use the [issues tab](https://github.com/KnowageLabs/knowage-gallery-templates/issues) of the repository, to have support use the Knowage community [Q&A Forum](https://www.knowage-suite.com/qa/).
+In case of problems use the [issues tab](https://github.com/KnowageLabs/knowage-gallery-templates/issues) of the repository, to have support use the KNOWAGE community [Q&A Forum](https://www.knowage-suite.com/qa/).
