@@ -14,8 +14,12 @@ thead{
     display: none;
 }
 
-tbody {
-    td {
-        border: 0;
+.main-content {
+    table{
+        tbody {
+            td {
+                border: 0;
+            }
+        }
     }
 }
