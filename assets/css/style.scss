@@ -9,3 +9,13 @@ $section-headings-color: #073058 !default;
 $body-link-color: #CB2162 !default;
 
 @import "{{ site.theme }}";
+
+thead{
+    display: none;
+}
+
+tbody {
+    td {
+        border: 0;
+    }
+}
