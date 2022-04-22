@@ -8,9 +8,9 @@ This page collects KNOWAGE Gallery templates that helps you crafting **stunning 
 |    [![gallery-setting](./assets/img/knowage-gallery-set.png)](https://github.com/KnowageLabs/knowage-gallery-templates/tree/main/templates/card)  |    [![gallery-setting](./assets/img/knowage-gallery-set.png)](https://github.com/KnowageLabs/knowage-gallery-templates/tree/main/templates/header)   |
 
 
-Gallery templates can be imported  into the Gallery management section *(pic. 1)* of KNOWAGE to provide end users with pre-built charts, labels and any kind of object with the only need to connect their own datasources.
+Gallery templates can be imported with the **Gallery management functionality** of KNOWAGE to provide end users with pre-built charts, labels and any kind of object with the only need to connect their own datasources.
 
-Once imported, in fact, templates are easy to use: each HTML, R, PYTHON and CUSTOM widget has its own Gallery tab *(pic. 2)* in the widget edit mode from which choosing the most suitable template for the ongoing analysis.
+Once imported, in fact, templates are easy to use: each HTML, R, PYTHON and CUSTOM widget has its own Gallery tab in the widget edit mode from which choosing the most suitable template for the ongoing analysis.
 
 ![Cards](./assets/img/knowage-gallery-list.png)
 
@@ -42,6 +42,22 @@ Create a folder with the name of the widget you want to add and put it in a fold
 ``` /templates/card/my-custom-widget ```
 
 Remember to add an image of the resulting widget in .jpg or .png format and a [MIT license file](https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt) with your name, to keep the template copyright but allowing other community users to use it.
+
+Here you can see the example folder:
+``` 
+.
+└── templates/
+    ├── card/
+    │   └── my-custom-widget/
+    │       ├── my-custom-widget.json
+    │       ├── my-custom-widget.png
+    │       └── .license
+    └── header/
+        ├── header-with-icon/
+        ├── header-with-image/
+        └── my-custom-header/
+
+```
 
 Than you will have to make a pull-request on [this repository](https://github.com/KnowageLabs/knowage-gallery-templates). If you don't know how to do it, just follow [this guideline](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/working-with-your-remote-repository-on-github-or-github-enterprise/creating-an-issue-or-pull-request)!
 
