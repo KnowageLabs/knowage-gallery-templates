@@ -1,7 +1,3 @@
----
-layout: page
----
-
 *Willing to take your data visualization to a higher level?*
 
 This page collects KNOWAGE Gallery templates that helps you crafting **stunning visualizations of your data in few minutes**.
