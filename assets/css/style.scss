@@ -14,6 +14,11 @@ $body-link-color: #CB2162 !default;
     font-size: .9rem;
 }
 
+.btn {
+    border-radius: 0;
+    border-width: 2px;
+}
+
 thead{
     display: none;
 }
