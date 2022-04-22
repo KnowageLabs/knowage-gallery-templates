@@ -1,11 +1,9 @@
-*Willing to take your data visualization to a higher level?*
-
 This page collects KNOWAGE Gallery templates that helps you crafting **stunning visualizations of your data in few minutes**.
 
 
-|  |             |
-|:-------------:|:---------------:|
-|    [![gallery-setting](./assets/img/knowage-gallery-set.png)](https://github.com/KnowageLabs/knowage-gallery-templates/tree/main/templates/card)  |    [![gallery-setting](./assets/img/knowage-gallery-set.png)](https://github.com/KnowageLabs/knowage-gallery-templates/tree/main/templates/header)   |
+|  |             | |
+|:-------------:|:---------------:|:---------------:|
+|    [![card](./assets/img/card.png)](https://github.com/KnowageLabs/knowage-gallery-templates/tree/main/templates/card)  |    [![header](./assets/img/header.png)](https://github.com/KnowageLabs/knowage-gallery-templates/tree/main/templates/header)   | [![charts](./assets/img/chart.png)](https://github.com/KnowageLabs/knowage-gallery-templates/tree/main/templates/chart)   |
 
 
 Gallery templates can be imported with the **Gallery management functionality** of KNOWAGE to provide end users with pre-built charts, labels and any kind of object with the only need to connect their own datasources.
