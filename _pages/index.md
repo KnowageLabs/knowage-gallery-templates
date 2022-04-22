@@ -1,3 +1,8 @@
+---
+layout: page
+permalink: /
+---
+
 ## Knowage Gallery Templates
 
 *Willing to take your data visualization to a higher level?*
