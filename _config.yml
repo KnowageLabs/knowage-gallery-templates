@@ -1,6 +1,4 @@
 remote_theme: chrisrhymes/bulma-clean-theme
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
 colors:
     gradient_left: "#073058"
     gradient_right: "#159957"
