@@ -14,6 +14,13 @@ thead{
     display: none;
 }
 
+.page-header{
+    background-image: url(/knowage-gallery-templates/assets/img/bg.png);
+    background-repeat: no-repeat;
+    background-position: 0% 30%;
+    background-size: cover;
+}
+
 .main-content {
     table{
         tbody {
